@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+
+
 - 🌱 I’m currently learning JAVA
+
+[![Jeeeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeeem)](https://github.com/jeeeem/github-readme-stats)
 
 <!--
 **jeeeem/jeeeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
