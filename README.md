@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-
-<!--
 - 🌱 I’m currently learning JAVA
--->
+
 
 <!--
 [![Jeeeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeeem)](https://github.com/jeeeem/github-readme-stats)
