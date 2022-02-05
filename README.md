@@ -8,7 +8,7 @@
 -->
 
 ### Most Used Languages
-https://github-readme-stats.vercel.app/api/top-langs/?username=jeeeem&layout=compact&exclude_repo=nvim,dotfiles&langs_count=8
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeeeem&layout=compact&exclude_repo=nvim,dotfiles&langs_count=8)
 
 ### My Github Stats
 [![Jeeeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeeem&count_private=true&show_icons=true&theme=vue)](https://github.com/jeeeem/github-readme-stats)
