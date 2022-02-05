@@ -5,6 +5,7 @@
 [![jeeeem's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeeeem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### This week I spent my time on
+[![jeeeem's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeeeem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
 Week: 29 January, 2022 - 04 February, 2022
