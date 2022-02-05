@@ -16,7 +16,7 @@ JSON       59 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 ### My Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Github Stats
 [![Jeeeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeeem&count_private=true&show_icons=true)](https://github.com/jeeeem/github-readme-stats)
