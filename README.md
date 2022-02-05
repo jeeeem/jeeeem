@@ -7,6 +7,12 @@
 [![jeeeem's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeeeem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+### My Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### My Github Stats
+[![Jeeeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeeem&count_private=true&show_icons=true&theme=vue)](https://github.com/jeeeem/github-readme-stats)
+
 ### This week I spent my time on
 <!--START_SECTION:waka-->
 ```text
@@ -19,13 +25,6 @@ conf       1 hr            ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 JSON       59 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.83 % 
 ```
 <!--END_SECTION:waka-->
-
-### My Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### My Github Stats
-[![Jeeeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeeem&count_private=true&show_icons=true&theme=vue)](https://github.com/jeeeem/github-readme-stats)
-
 
 <!--
 **jeeeem/jeeeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,3 +40,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
