@@ -2,10 +2,10 @@
 
 - 🌱 I’m currently learning JAVA
 
-[![jeeeem's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeeeem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### This week I spent my time on
 [![jeeeem's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeeeem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 <!--START_SECTION:waka-->
 ```text
 Week: 29 January, 2022 - 04 February, 2022
@@ -17,6 +17,7 @@ conf       1 hr            ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 JSON       59 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.83 % 
 ```
 <!--END_SECTION:waka-->
+-->
 
 ### My Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
