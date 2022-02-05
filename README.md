@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning JAVA
 
+[![jeeeem's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeeeem)](https://github.com/anuraghazra/github-readme-stats)
+
 ### This week I spent my time on
 <!--START_SECTION:waka-->
 ```text
