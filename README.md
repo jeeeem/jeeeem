@@ -17,7 +17,7 @@ JSON       59 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
-[![Jeeeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeeem)](https://github.com/jeeeem/github-readme-stats)
+[![Jeeeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeeem&count_private=true)](https://github.com/jeeeem/github-readme-stats)
 
 
 <!--
