@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently improving my DSA and learning Typescript
 
 <!--
 ### This week I spent my time on
