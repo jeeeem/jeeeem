@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<!--
 - 🌱 I’m currently improving my DSA and learning Typescript
+-->
 
 <!--
 ### This week I spent my time on
