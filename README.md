@@ -21,10 +21,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 August 2022 - To: 14 August 2022
+From: 08 August 2022 - To: 15 August 2022
 
-Markdown   1 hr 46 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.94 %
-Lua        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.06 %
+Markdown   2 hrs 7 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀   72.87 %
+Other      47 mins         ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.09 %
 ```
 
 <!--END_SECTION:waka-->
