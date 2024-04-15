@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2024 - To: 12 April 2024
+From: 07 April 2024 - To: 14 April 2024
 
 Markdown   27 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.29 %
 Java       19 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.29 %
